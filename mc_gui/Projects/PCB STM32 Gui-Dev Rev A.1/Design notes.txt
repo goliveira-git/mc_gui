@@ -1,0 +1,3 @@
+High speed clock:
+	Cap calculation: C = (C_Load - C_Stray) * 2
+	In this design case, for Y1: C_Load = (10pF - 5pF) * 2 = 10pF
